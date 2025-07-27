@@ -4,7 +4,7 @@
 
 Welcome to my professional portfolio. This space showcases selected artifacts, background, and the value I bring as a web developer and IT professional.
 
----
+
 
 ### 📌 Artifact 1 – House Price Prediction Model
 
@@ -12,7 +12,6 @@ This artifact demonstrates a Bayesian regression model for real estate valuation
 
 🔗 [View Artifact 1](artifacts/artifact/index.html)
 
----
 
 ### 📌 Artifact 2 – Breast Cancer Prediction Model
 
@@ -20,19 +19,26 @@ This artifact showcases a breast cancer prediction model using logistic regressi
 
 🔗 [View Artifact 2](artifacts/artifact2/index.html)
 
----
+
+
+### 📌 Artifact 3 – Sentiment Analysis in Python
+
+This artifact features a sentiment analysis project implemented in a Jupyter notebook, following a YouTube tutorial. It demonstrates two approaches: VADER (Valence Aware Dictionary and sEntiment Reasoner) for rule-based sentiment scoring, and a transformer-based approach using a pretrained RoBERTa model from HuggingFace. The project includes data preprocessing, exploratory data analysis, model application, and result visualization. This artifact highlights my skills in natural language processing, model evaluation, and effective communication of results through well-documented code and visualizations.
+
+🔗 [View Artifact 3](artifacts/artifact 3/sentiment-analysis-python-youtube-tutorial.ipynb)
+
 
 ### 👨‍💻 Professional Bio
 
 I am a passionate and results-driven web developer with a strong foundation in Information Technology, Business Management, and Artificial Intelligence. I specialize in creating responsive, user-friendly websites and applications that deliver tangible value to both clients and end-users. My unique combination of technical skills and business insight enables me to bring innovative solutions to life.
 
----
+
 
 ### 📄 About Me
 
 I’ve had the privilege of developing websites for prominent organizations such as Harvard University’s Education Department and Enfamil. With degrees spanning from an MBA to an M.S. in IT (AI specialization), and hands-on experience in both web/mobile development and business consulting, I bring creativity, strategic thinking, and discipline to every project.
 
----
+
 
 ### 🎓 Education & Experience Highlights
 
@@ -49,7 +55,7 @@ I’ve had the privilege of developing websites for prominent organizations such
 
   * Developed websites for Harvard and Enfamil
 
----
+
 
 ### 💡 Personal Value Proposition
 
@@ -60,4 +66,4 @@ I connect business goals with practical technical solutions. My ability to deepl
 *This portfolio is maintained by **kalpesh-drupal***
 *Hosted on GitHub Pages — Theme by Orderedlist*
 
----
+
